@@ -1,12 +1,12 @@
-<h1 align="center">
-  <span style="color:#38BDF8;">Mohsen Hossam</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Mohsen+Hossam" />
+</p>
 
 <h3 align="center">Junior Data Scientist</h3>
 
 ---
 
-## 👋 Hey!
+## 👨‍💻 About Me
 
 I'm **Mohsen Hossam**, a Junior Data Scientist passionate about Machine Learning, Artificial Intelligence, and Data Analysis.
 
@@ -33,8 +33,8 @@ I enjoy building intelligent solutions, analyzing data, and continuously learnin
 
 ## 📫 Contact
 
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mohsen-hossam-mohsen" target="_blank">www.linkedin.com/in/mohsen-hossam-mohsen</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mohsen-hossam-mohsen">www.linkedin.com/in/mohsen-hossam-mohsen</a>
 
-- 🏆 **Kaggle:** <a href="https://www.kaggle.com/MohsenHossamSayed" target="_blank">www.kaggle.com/MohsenHossamSayed</a>
+- 🏆 **Kaggle:** <a href="https://www.kaggle.com/MohsenHossamSayed">www.kaggle.com/MohsenHossamSayed</a>
 
 - 📧 **Email:** <a href="mailto:dev.mohsen.hossam55@gmail.com">dev.mohsen.hossam55@gmail.com</a>
