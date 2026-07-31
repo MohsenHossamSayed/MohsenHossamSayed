@@ -1,16 +1,20 @@
-# Mohsen Hossam
+<h1 align="center">
+  <span style="color:#38BDF8;">Mohsen Hossam</span>
+</h1>
 
-### Junior Data Scientist
+<h3 align="center">Junior Data Scientist</h3>
 
 ---
 
-## Hey!
+## 👋 Hey!
 
 I'm **Mohsen Hossam**, a Junior Data Scientist passionate about Machine Learning, Artificial Intelligence, and Data Analysis.
 
+I enjoy building intelligent solutions, analyzing data, and continuously learning new technologies.
+
 ---
 
-## Skills
+## 🛠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,git,github" />
@@ -27,8 +31,10 @@ I'm **Mohsen Hossam**, a Junior Data Scientist passionate about Machine Learning
 
 ---
 
-## Contact
+## 📫 Contact
 
-- LinkedIn
-- Kaggle
-- Email
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mohsen-hossam-mohsen" target="_blank">www.linkedin.com/in/mohsen-hossam-mohsen</a>
+
+- 🏆 **Kaggle:** <a href="https://www.kaggle.com/MohsenHossamSayed" target="_blank">www.kaggle.com/MohsenHossamSayed</a>
+
+- 📧 **Email:** <a href="mailto:dev.mohsen.hossam55@gmail.com">dev.mohsen.hossam55@gmail.com</a>
